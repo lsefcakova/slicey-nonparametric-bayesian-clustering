@@ -1,6 +1,6 @@
 # Slicer sampler - a non-parametric Bayesian clustering algorithm
 
-Implementation of Slice sampler to cluster dtaa with unspecified number of classes as a part of a bigger project on non-parametric clustering algorithms.
+Implementation of Slice sampler to cluster data with unspecified number of classes as a part of a bigger project on non-parametric clustering algorithms.
 
 The code is structured as followes:
 
